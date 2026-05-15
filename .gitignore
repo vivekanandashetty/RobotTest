@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Robot Framework Reports
+log.html
+report.html
+output.xml
+
+# Screenshots
+*.png
+
+# Allure Reports
+allure-results/
+allure-report/
+
+# IDE
+.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Selenium / Drivers
+drivers/
+*.log
+
+# Playwright
+playwright-report/
+test-results/
+browser/
+
+# Pytest Cache
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Environment Variables
+.env
+
+# Temporary Files
+tmp/
+temp/
